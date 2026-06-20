@@ -11,6 +11,15 @@ img{
     height: auto;
 }
 
+#stickman{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
 #left-colomn{
    width: 60px;
    float: left;
